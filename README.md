@@ -12,7 +12,7 @@ Dashboard ini dibuat menggunakan **Microsoft Power BI** untuk menganalisis data 
 ---
 
 ### **📂 File dalam Repository**  
-- **`Dashboard_Nasabah_Bank.pbix`** → File utama Power BI yang berisi visualisasi dan data.  
+- **`BANK_DASHBOARD.pbix`** → File utama Power BI yang berisi visualisasi dan data.  
 - **`README.md`** → Dokumentasi proyek.  
 - **`image.png`** → Cuplikan layar (screenshot) dashboard.  
 
